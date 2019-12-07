@@ -3,6 +3,11 @@ name = "derive_asref"
 version = "0.1.0"
 authors = ["AtsukiTak <takatomgoo@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/AtsukiTak/derive_asref"
+keywords = ["derive", "asref"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+description = "derive AsRef in variety way."
 
 [lib]
 proc-macro = true
